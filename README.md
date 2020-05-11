@@ -23,7 +23,7 @@ _(in case you want to reach me, be aware that depending on the day or hour, I am
 ------------ | ------------- | --- | --- | ---| --- | --- | ---
 Morning | :coffee: & :notes: | :coffee: & :notes: | :coffee: & :notes: | :coffee: & :notes: | :coffee: & :notes: | :coffee: & :notes: | :coffee: 
 Afternoon  | :coffee: & :computer: | :coffee: & :computer: | :coffee: & :computer: | :coffee: & :computer: | :coffee: & :computer: | :coffee: & :computer: | :coffee:
-Night | coffee: | coffee: | coffee: | coffee: | coffee: | coffee: | coffee:
+Night | :coffee: | :coffee: | :coffee: | :coffee: | :coffee: | :coffee: | :coffee:
 
 
 ### Links
