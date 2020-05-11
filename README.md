@@ -28,6 +28,6 @@ Night | :coffee: | :coffee: | :coffee: | :coffee: | :coffee: | :coffee: | :coffe
 
 ### Links
 
-1. [Personal Website](https://abelroland.com/en)
+1. [Personal Website](https://abelroland.com/en/)
 
 2. [GitHub Profile](https://github.com/abelRoland)
